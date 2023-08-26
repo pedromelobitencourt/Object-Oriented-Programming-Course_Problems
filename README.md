@@ -1,33 +1,22 @@
 # Object-Oriented-Proggramming-Course
 
-Welcome to the "Object-Oriented Programming Exercises" repository! This repository is dedicated to providing a collection of exercises for the Object-Oriented Programming course. The exercises aim to help you develop a strong understanding of key concepts in object-oriented programming (OOP) and apply them through hands-on coding practice.
+This repository is a central hub for storing and organizing exercise codes provided by the Object-Oriented Programming course. Here, you'll find a collection of code examples that correspond to the exercises covered in the course to help you reinforce your understanding of object-oriented programming concepts.
+
 ## Introduction
 
-This repository houses a curated set of programming exercises that will guide you through various aspects of object-oriented programming. The exercises range from foundational concepts to more advanced topics, enabling you to gradually enhance your OOP skills.
+This repository is designed to provide a convenient way for students of the Object-Oriented Programming course to access, review, and study the exercise codes presented throughout the curriculum. The exercise codes cover a variety of topics and concepts in object-oriented programming.
 
-## Exercises
+## Exercise Codes
 
-Explore the `exercises` directory to find a diverse range of OOP exercises. Each exercise folder contains:
-
-- A `README` file describing the exercise's objectives and requirements.
-- Starter code files (if applicable).
-- Sample inputs and expected outputs.
-- Solution files in various programming languages.
+Browse the `exercise-codes` directory to find a categorized collection of exercise code files. Each exercise code file corresponds to a specific exercise provided by the course and contains a practical implementation of the solution.
 
 ## Topics Covered
 
-The exercises cover a wide array of object-oriented programming topics, including:
+The exercise codes cover a wide range of object-oriented programming topics, including:
 
 - Class and object creation.
-- Encapsulation, inheritance, and polymorphism.
+- Inheritance and polymorphism.
 - Constructors and destructors.
 - Method overloading and overriding.
-- Composition and aggregation.
+- Encapsulation and access modifiers.
 - Design patterns and principles.
-
-## How to Use
-
-1. Clone the repository to your local machine using the following command:
-
-   ```bash
-   git clone https://github.com/your-username/oop-exercises.git
